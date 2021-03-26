@@ -1,3 +1,13 @@
+## Useful Testing Links
+
+https://medium.com/rungo/unit-testing-made-easy-in-go-25077669318
+
+https://building.lang.ai/7-testing-techniques-for-your-golang-codebase-77649a96a1c9
+
+https://www.gojek.io/blog/golang-integration-testing-made-easy
+
+
+
 = Go testing frameworks image:https://travis-ci.org/bmuschko/go-testing-frameworks.svg?branch=master["Build Status", link="https://travis-ci.org/bmuschko/go-testing-frameworks"] image:https://goreportcard.com/badge/github.com/bmuschko/go-testing-frameworks["Go Report Card", link="https://goreportcard.com/report/github.com/bmuschko/go-testing-frameworks"] image:https://codecov.io/gh/bmuschko/go-testing-frameworks/branch/master/graph/badge.svg["Codecov", link="https://codecov.io/gh/bmuschko/go-testing-frameworks"]
 
 Demonstrates the use of different testing frameworks for Go code.
